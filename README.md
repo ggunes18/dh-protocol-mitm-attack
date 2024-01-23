@@ -1,5 +1,4 @@
-# COMP443 Project - Fall2023
-### Gizem Güneş - 69684
+# COMP443 MODERN CRYPTOGRAPHY Project - Fall2023
 
 ## Diffie-Hellman Protocol
 To simulate a server-like communication between two users without the attacker:
