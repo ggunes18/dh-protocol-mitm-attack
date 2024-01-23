@@ -1,4 +1,4 @@
-# COMP443 Modern Cryptography Project - Fall2023
+A project designed to simulate an encrypted communication between two users using the Diffie-Hellman key exchange protocol. This project also incorporates a simulation of a Man-in-the-Middle (MITM) attacker to enhance understanding of potential security threats.
 
 ## Diffie-Hellman Protocol
 To simulate a server-like communication between two users without the attacker:
