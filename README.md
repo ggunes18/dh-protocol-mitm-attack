@@ -1,4 +1,4 @@
-# COMP443 MODERN CRYPTOGRAPHY Project - Fall2023
+# COMP443 Modern Cryptography Project - Fall2023
 
 ## Diffie-Hellman Protocol
 To simulate a server-like communication between two users without the attacker:
